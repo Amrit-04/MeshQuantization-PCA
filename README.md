@@ -1,12 +1,5 @@
 # 🧠 3D Mesh Quantization and Invariance Analysis using PCA
 
-**Author:** [Your Name]  
-**Institution:** [Your Department / Course]  
-**Date:** [Submission Date]  
-**Assignment:** SeamGPT Mesh Processing and Normalization Challenge  
-
----
-
 ## 📘 Project Overview
 
 This project implements an advanced pipeline for **3D mesh normalization, quantization, and reconstruction** with an emphasis on **rotation and translation invariance using PCA (Principal Component Analysis)**.  
