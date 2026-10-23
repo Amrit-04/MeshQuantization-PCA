@@ -1,5 +1,11 @@
 # 🧠 3D Mesh Quantization and Invariance Analysis using PCA
 
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Graphics](https://img.shields.io/badge/Domain-3D%20Geometry%20Processing-blueviolet?style=flat)](https://github.com/Amrit-04/MeshQuantization-PCA)
+[![PCA](https://img.shields.io/badge/Method-PCA%20Invariance-success?style=flat)](https://github.com/Amrit-04/MeshQuantization-PCA)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
 ## 📘 Project Overview
 
 This project implements an advanced pipeline for **3D mesh normalization, quantization, and reconstruction** with an emphasis on **rotation and translation invariance using PCA (Principal Component Analysis)**.  
